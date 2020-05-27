@@ -33,3 +33,15 @@ GO
 
 ```
 
+## Arquitetura da Aplicação
+
+# Backend
+* Model
+* Repositório
+* Serviço
+* Controller
+
+# Frontend
+* Componentes
+* Serviço
+
