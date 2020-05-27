@@ -36,7 +36,7 @@ GO
 ## Arquitetura da Aplicação
 
 # Backend
-* Model
+* Modelo
 * Repositório
 * Serviço
 * Controller
