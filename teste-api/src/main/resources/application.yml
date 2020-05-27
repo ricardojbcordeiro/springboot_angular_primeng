@@ -1,0 +1,36 @@
+# banco de dados
+spring:
+  application:
+    name: Teste API
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;database=db_contatos
+    username: sa
+    password: '@rjbc#2483!'
+    driverclassname: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    show-sql: true
+    hibernate:
+      dialect: org.hibernate.dialect.SQLServer2012Dialect
+      ddl-auto: update
+
+hibernate:
+  dialect: org.hibernate.dialect.SQLServer2012Dialect
+    
+app:
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;database=db_teste
+    username: sa
+    password: '@rjbc#2483!'
+    driverclassname: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    jpa:
+      show-sql: true
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServer2012Dialect
+    
+server:
+  port: 7070
+  
+logging:
+  level:
+    org.springframework.web: TRACE
+    hibernate: TRACE
