@@ -21,7 +21,7 @@
 
 * Tela de Lista de Contatos
 
-<img src="https://github.com/ricardojbcordeiro/springboot_angular_primeng/blob/master/resources/telas/tela_lista_contatos.jpg" width="800" heigth="600">
+<img src="https://github.com/ricardojbcordeiro/springboot_angular_primeng/blob/master/resources/telas/Inkedtela_lista_contatos.jpg" width="800" heigth="600">
 
 
 ## Definindo o Banco de Dados
