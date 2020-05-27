@@ -12,7 +12,7 @@
 ## Telas da Aplicação
 
 * Tela Home
-![alt text](https://github.com/ricardojbcordeiro/springboot_angular_primeng/edit/master/resources/telas/tela_home.PNG "Tela Home")
+![alt text](https://github.com/ricardojbcordeiro/springboot_angular_primeng/master/resources/telas/tela_home.PNG "Tela Home")
 
 ## Definindo o Banco de Dados
 ```SQL
