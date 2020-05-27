@@ -12,7 +12,17 @@
 ## Telas da Aplicação
 
 * Tela Home
-![alt text](https://github.com/ricardojbcordeiro/springboot_angular_primeng/master/resources/telas/tela_home.PNG "Tela Home")
+
+<img src="https://github.com/ricardojbcordeiro/springboot_angular_primeng/blob/master/resources/telas/tela_home.PNG" width="800" heigth="600">
+
+* Tela de Cadastro de Contatos
+
+<img src="https://github.com/ricardojbcordeiro/springboot_angular_primeng/blob/master/resources/telas/tela_cadastro_contato.PNG" width="800" heigth="600">
+
+* Tela de Lista de Contatos
+
+<img src="https://github.com/ricardojbcordeiro/springboot_angular_primeng/blob/master/resources/telas/tela_lista_contatos.jpg" width="800" heigth="600">
+
 
 ## Definindo o Banco de Dados
 ```SQL
