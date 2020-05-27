@@ -4,9 +4,14 @@
 * Divultar conhecimentos para interessados
 
 ## Tecnologias:
-* Spring Boot
+
+### FrontEnd
 * Angular 8
 * PrimeNG
+
+### BackEnd
+* Java
+* Spring Boot
 * Sql Server Express
 
 ## Telas da Aplicação
